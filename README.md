@@ -1,4 +1,5 @@
 # Forever Password Manager
+<<<<<<< HEAD
 <!-- TOC -->
 
 - [Forever Password Manager](#forever-password-manager)
@@ -32,3 +33,7 @@ Graphic User Interface:
 ## License
 
 This script is released under the GPL License. See the <LICENSE> file for more information.
+=======
+
+A new project working on Windows.
+>>>>>>> remotes/fpm/master
